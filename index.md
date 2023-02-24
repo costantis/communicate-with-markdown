@@ -22,3 +22,7 @@ public class Main {
 
 }
 ```
+
+- [ ] Turn on Github Pages
+- [ ] Outline my portfolio
+- [X] Introduce myself to the world
